@@ -1,3 +1,3 @@
 # Install
 Should compile with g++.
-`gpp linkedin.cpp -o stay`
+`g++ linkedin.cpp -o stay`
